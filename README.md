@@ -248,7 +248,7 @@ LUFFY/
 - [ ] **luffy/verl/verl/workers/fsdp_workers.py:252** - add more optimizer args into config
 - [ ] **luffy/verl/verl/workers/fsdp_workers.py:278** - (sgm): support FSDP hybrid shard for larger model
 - [ ] **luffy/verl/verl/workers/fsdp_workers.py:289** - a sharding manager that do nothing?
-- [ ] **luffy/verl/workers/fsdp_workers.py:416** - here, we should return all metrics
+- [ ] **luffy/verl/verl/workers/fsdp_workers.py:416** - here, we should return all metrics
 - [ ] **luffy/verl/verl/workers/fsdp_workers.py:811** - (sgm): we may need to extract it to dp_reward_model.py
 - [ ] **luffy/verl/verl/workers/megatron_workers.py:106** - (sgm): Currently, we only support reference model param offload
 - [ ] **luffy/verl/verl/workers/megatron_workers.py:204** - add more optimizer args into config
